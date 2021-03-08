@@ -1,4 +1,4 @@
-# -HeHe-Self_Driving_Car
+# HEVEN_AutonomousCar_2017 (HEHE)
 This project is on purpose to make out entire code for '2017 International graduate student, Self-Driving Car Competition'(held on 20170519). 
 
 The name of the Car was HeHe(It means HevenCar for Heven. Because our crew's name was Heven).
