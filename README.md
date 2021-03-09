@@ -44,7 +44,6 @@ Integrated_Main_Code.py
 * Project Design & Management: 나윤서
 
 # Development
-## Code
 ## Vehicle
 ### 외장 제작
 * 외장 제작을 위해 CAD 로 차량 외장을 역설계 진행  
@@ -54,15 +53,43 @@ Integrated_Main_Code.py
 <img src="https://user-images.githubusercontent.com/35250492/110467039-db661d00-8119-11eb-9e06-638ce0b2c5ef.png" width="500">  
 <br>
 * 몰드 제작 후 FRP 제작  
-<img src="https://user-images.githubusercontent.com/35250492/110467039-db661d00-8119-11eb-9e06-638ce0b2c5ef.png" width="500">  
+<img src="https://user-images.githubusercontent.com/35250492/110467741-b6be7500-811a-11eb-8fdf-4aaae04dbc25.png" width="500">  
 <img src="https://user-images.githubusercontent.com/35250492/110467587-8c6cb780-811a-11eb-9c50-1a5048fefc98.png" width="500">  
+<br>
+* 완성  
+<img src="https://user-images.githubusercontent.com/35250492/110467929-f2593f00-811a-11eb-96d1-ff9a70a1945b.png" width="500">  
 
 
 
 # Competition 결과
 ## prize
+**2nd Sliver Prize**  
+<img src="https://user-images.githubusercontent.com/35250492/110468814-25500280-811c-11eb-8004-636d81aee30c.png" width="500">
 
-## picture
+## Result
+|Mission|Competition|Pass/Fail|R/M|
+|:--------:|:--------:|:--------:|:--------:|
+|**횡단보도**|예선|Pass| |
+|"|본선|Pass| |
+|**협로구간**|예선|Pass| |
+|"|본선|Pass| |
+|**동적장애물**|예선|Pass| |
+|"|본선|Fail| 본선과 예선 시간이 달라, <br>햇빛 조도에 따라 Image 다르게 인식 <br>(햇빛조도 변경에 따른 이미지 처리 필요)|
+|**정적장애물**|예선|Pass| |
+|"|본선|Pass| |
+|**곡선코스**|예선|Pass| |
+|"|본선|Pass| |
+|**U턴**|예선|Pass| |
+|"|본선|Fail|U턴 바깥 차선 5cm 침범|
+|**자동주차**|예선|Fail|차선 침범으로 주차|
+|"|본선|Fail|"|
 
 ## Report
-[최종_결과_보고서](https://github.com/jungAcat/HEVEN_AutonomousCar_2017/files/6108269/WE-UP.docx)
+[최종_결과_보고서](https://github.com/jungAcat/HEVEN_AutonomousCar_2017/files/6108269/WE-UP.docx)  
+
+
+# The End
+<img src="https://user-images.githubusercontent.com/35250492/110469023-719b4280-811c-11eb-8fc0-312c9755f2cb.jpg" width="500">  
+<img src="https://user-images.githubusercontent.com/35250492/110469046-7829ba00-811c-11eb-87fe-1b8f53267837.jpg" width="500">  
+  
+
