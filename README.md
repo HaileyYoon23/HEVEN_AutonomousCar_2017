@@ -3,11 +3,11 @@
 
 |학교|성균관대학교 (Sungkyunkwan Univ.)| 
 |:--------|:--------:|
-|소속 동아리|HEVEN (Hybrid Electronic Vehicle ENgineer)| 
-|수상|은상 (2nd prize)| 
-|팀장|나윤서 (Na Yoonseo)| 
-|팀원|김동민 <br>장준배 <br>박지환 <br>김태하 <br>이충환 <br>김학준 <br>양호준 <br>이종국| 
-|차명|HeHe(헤븐엔 헤븐카)| 
+|**소속 동아리**|HEVEN (Hybrid Electronic Vehicle ENgineer)| 
+|**수상**|**은상 (2nd prize)**| 
+|**팀장**|나윤서 (Na Yoonseo)| 
+|**팀원**|김동민 <br>장준배 <br>박지환 <br>김태하 <br>이충환 <br>김학준 <br>양호준 <br>이종국| 
+|**차명**|HeHe(헤븐엔 헤븐카)| 
 
 This project is on purpose to make out entire code for '2017 International graduate student, Self-Driving Car Competition'(held on 20170519). 
 
