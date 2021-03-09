@@ -2,7 +2,8 @@
 위 코드는 2017.05.18 예선 / 2017.05.19 본선으로 열린 '2017 KASA 국제 대학생 자율주행 대회' 를 진행한 프로젝트 결과입니다. <br><br>
 학교 : 성균관대학교 (Sungkyunkwan Univ.)<br>
 소속동아리 : 
- 
+|||
+|:--------|:--------|:--------|:-----------:|
 |학교|성균관대학교 (Sungkyunkwan Univ.)| 
 |소속 동아리|HEVEN (Hybrid Electronic Vehicle ENgineer)| 
 This project is on purpose to make out entire code for '2017 International graduate student, Self-Driving Car Competition'(held on 20170519). 
