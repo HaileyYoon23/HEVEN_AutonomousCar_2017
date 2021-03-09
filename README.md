@@ -4,7 +4,7 @@
 소속동아리 : 
 
 | ㄷ|ㄷ|
-|:--------|:--------|:--------|:-----------:|
+|:--------|:--------|
 |학교|성균관대학교 (Sungkyunkwan Univ.)| 
 |소속 동아리|HEVEN (Hybrid Electronic Vehicle ENgineer)| 
 
