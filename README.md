@@ -1,12 +1,13 @@
 # HEVEN_AutonomousCar_2017 (HEHE)
 위 코드는 2017.05.18 예선 / 2017.05.19 본선으로 열린 '2017 KASA 국제 대학생 자율주행 대회' 를 진행한 프로젝트 결과입니다. <br><br>
-학교 : 성균관대학교 (Sungkyunkwan Univ.)<br>
-소속동아리 : 
 
-| ㄷ|ㄷ|
-|:--------|:--------|
 |학교|성균관대학교 (Sungkyunkwan Univ.)| 
+|:--------|:--------|
 |소속 동아리|HEVEN (Hybrid Electronic Vehicle ENgineer)| 
+|수상|은상 (2nd prize)| 
+|팀장|나윤서 (Na Yoonseo)| 
+|팀원|김동민 <br>장준배 <br>박지환 <br>김태하 <br>이충환 <br>김학준 <br>양호준 <br>이종국| 
+|차명|HeHe(헤븐엔 헤븐카)| 
 
 This project is on purpose to make out entire code for '2017 International graduate student, Self-Driving Car Competition'(held on 20170519). 
 
@@ -37,7 +38,8 @@ Integrated_Main_Code.py
 |"|Parking|```Vision_.py```|김태하|
 |"|Sign Detect|```Vision_.py```|이충환<br>김학준|
 |**Planning**|Path Planning|```Localization```|양호준|
-|"|Localization|```Localization```|이종국|
+|"|LiDAR|```Localization```|김동민|
+|"|Localization|```Localization```|김동민<br>이종국|
 |**Control**|Car Speed/Steering Control|```Steering_.py```|박지환|
 * Project Design & Management: 나윤서
 
