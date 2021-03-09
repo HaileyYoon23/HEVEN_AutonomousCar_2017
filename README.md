@@ -63,7 +63,7 @@ Integrated_Main_Code.py
 
 # Competition 결과
 ## prize
-**2nd Sliver Prize**  
+**Ranked 2nd (Sliver Prize)**  
 <img src="https://user-images.githubusercontent.com/35250492/110468814-25500280-811c-11eb-8004-636d81aee30c.png" width="500">
 
 ## Result
