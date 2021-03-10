@@ -67,7 +67,7 @@ Integrated_Main_Code.py
 <img src="https://user-images.githubusercontent.com/35250492/110468814-25500280-811c-11eb-8004-636d81aee30c.png" width="500">
 
 ## Result
-[대회 영상 2:19 부터](https://youtu.be/0pAzOlpB0sQ)
+[대회 영상 2:19 부터](https://youtu.be/0pAzOlpB0sQ?t=139)
 <br>
 |Mission|Competition|Pass/Fail|R/M|
 |:--------:|:--------:|:--------:|:--------:|
