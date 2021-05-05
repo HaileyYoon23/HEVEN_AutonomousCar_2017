@@ -37,7 +37,7 @@ Integrated_Main_Code.py
 |"|Image Processing|```Vision_.py```|장준배|
 |"|Parking|```Vision_.py```|김태하|
 |"|Sign Detect|```Vision_.py```|이충환<br>김학준|
-|**Planning**|Path Planning|```Localization```|양호준|
+|**Planning**|Path Planning|```Goal_selection_.py```|양호준|
 |"|LiDAR|```Localization```|김동민|
 |"|Localization|```Localization```|김동민<br>이종국|
 |**Control**|Car Speed/Steering Control|```Steering_.py```|박지환|
